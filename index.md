@@ -35,3 +35,17 @@ Prerequisites in my http://github.com/koskot77/DevDataProducts/
 3. server.R and ui.R - Shiny application
 
 --- .class #id
+
+## Slide 3
+
+Results are available at: https://koskot77.shinyapps.io/DevDataProducts/
+
+Github repository is: https://github.com/koskot77/DevDataProducts
+
+--- .class #id
+
+## Slide 4
+
+Geography of the tweets:
+
+![Geography of the tweets](tweets.png)
