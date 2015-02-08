@@ -1,5 +1,5 @@
 ---
-title       : "Data products project: Slidify documentation"
+title       : "A quick analysis of tweets from Ukraine "
 subtitle    : 
 author      : KK
 job         : 
@@ -38,7 +38,7 @@ Prerequisites in my http://github.com/koskot77/DevDataProducts/
 
 ## Slide 3
 
-Results are available at: https://koskot77.shinyapps.io/DevDataProducts/
+Results are available at: https://koskot77.shinyapps.io/twitter/
 
 Github repository is: https://github.com/koskot77/DevDataProducts
 
@@ -49,3 +49,13 @@ Github repository is: https://github.com/koskot77/DevDataProducts
 Geography of the tweets:
 
 ![Geography of the tweets](tweets.png)
+
+--- .class #id
+
+## Slide 5
+
+Summary:
+
+1. Identified several spammers (e.g. userId=2571277046) pushing advertisements round the clock (robot)
+2. Found a bunch of emoji abusers (generating lengthy tweets)
+3. Discovered that majority of users do not care for politics 
